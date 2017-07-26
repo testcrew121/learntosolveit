@@ -2,7 +2,7 @@ engines:
   eslint:
     enabled: false
   rubocop:
-    enabled: true
+    enabled: false
     exclude_paths:
       - config/engines.yml
   duplication:
