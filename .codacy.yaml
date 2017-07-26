@@ -21,8 +21,4 @@ engines:
    css:
      extensions:
        - '-css.resource'
- exclude_paths:
-   - .bundle/
-   - spec/**/*
-   - benchmarks/**/*
-   - '*.min.js'
+ 
